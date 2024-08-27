@@ -120,7 +120,7 @@
 &trans  &kp TAB           &kp Q         &kp W         &kp E         &kp R                                 &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &kp LEFT_SHIFT    &kp A         &kp S         &kp D         &kp F                                 &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &kp LEFT_CONTROL  &trans        &trans        &trans        &trans        &trans       &trans     &trans  &trans  &trans  &trans  &trans  &trans
-                                        &trans        &trans        &to 0         &kp SPACE    &kp SPACE  &trans  &trans  &trans
+                                        &trans        &kp LEFT_ALT  &trans        &kp SPACE    &kp SPACE  &trans  &to 0   &trans
             >;
         };
     };
